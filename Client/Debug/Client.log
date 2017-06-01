@@ -1,0 +1,9 @@
+﻿  StaticWorldItem.cpp
+  PositionPacket.cpp
+  PlayerIndexSorter.cpp
+  player.cpp
+  main.cpp
+  bullet.cpp
+  Generating Code...
+  Client.vcxproj -> C:\Users\Nils\Documents\alpha\visualcpp\Client\Debug\Client.exe
+  Client.vcxproj -> C:\Users\Nils\Documents\alpha\visualcpp\Client\Debug\Client.pdb (Full PDB)
